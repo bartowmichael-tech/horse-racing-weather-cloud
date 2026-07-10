@@ -40,17 +40,17 @@ Belmont Park,Belmont,USA,40.6723,-73.8308,America/New_York
 Belmont At The Big A,,USA,40.6733,-73.8348,America/New_York
 Canterbury Park,Canterbury,USA,44.7907,-93.4828,America/Chicago
 Charles Town,,USA,39.2887,-77.8347,America/New_York
-Churchill Downs,Churchill,USA,38.2048,-85.7702,America/Kentucky
+Churchill Downs,Churchill,USA,38.2048,-85.7702,America/New_York
 Colonial Downs,,USA,37.5228,-76.9964,America/New_York
 Del Mar,Del Mar (US),USA,32.9803,-117.2577,America/Los_Angeles
 Delaware Park,,USA,39.7248,-75.6538,America/New_York
-Ellis Park,,USA,37.8562,-87.5905,America/Kentucky
+Ellis Park,,USA,37.8562,-87.5905,America/Chicago
 Fair Grounds Race Course,Fair Grounds,USA,29.9953,-90.0989,America/Chicago
 Finger Lakes,,USA,42.9739,-77.3252,America/New_York
 Gulfstream Park,Gulfstream,USA,25.9898,-80.1373,America/New_York
 Horseshoe Indianapolis,Horseshoe,USA,39.5893,-85.8245,America/Indiana/Indianapolis
-Keeneland,,USA,38.0403,-84.5909,America/Kentucky
-Kentucky Downs,,USA,36.6739,-86.5477,America/Kentucky
+Keeneland,,USA,38.0403,-84.5909,America/New_York
+Kentucky Downs,,USA,36.6739,-86.5477,America/Chicago
 Laurel Park,Laurel,USA,39.1043,-76.8303,America/New_York
 Monmouth Park,,USA,40.3140,-74.0086,America/New_York
 Mountaineer,,USA,40.5262,-80.6081,America/New_York
@@ -64,6 +64,6 @@ Santa Anita Park,Santa,USA,34.1395,-118.0377,America/Los_Angeles
 Saratoga Race Course,Saratoga,USA,43.0751,-73.7840,America/New_York
 Tampa Bay Downs,Tampa,USA,28.0435,-82.6699,America/New_York
 Thistledown,,USA,41.4362,-81.5379,America/New_York
-Turfway Park,,USA,39.0334,-84.6266,America/Kentucky
+Turfway Park,,USA,39.0334,-84.6266,America/New_York
 Assiniboia Downs,,CAN,49.8951,-97.2867,America/Winnipeg
 Woodbine,,CAN,43.7075,-79.6012,America/Toronto
